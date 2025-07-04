@@ -5,7 +5,7 @@ from flask_migrate import Migrate
 from flask_login import LoginManager
 from pytz import timezone
 import pytz
-Kabelo
+
 
 app = Flask(__name__)
 login = LoginManager(app)
